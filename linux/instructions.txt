@@ -1,5 +1,7 @@
 These are some Linux problems to solve. After solving them, upload a Pull Request and Assign me as a reviewer to approve them. Feel free to edit this file or if any case upload a new one.
 
+###REMEMBER USE VISUAL STUDIO CODE AND USE GIT COMMANDS, UPLOAD TO THIS REPO AND CREATE A PULL REQUEST TO VERIFY THE COMMIT
+
 # Linux Systems
 
 1. You connect to a Linux server and need to identify your current directory.
