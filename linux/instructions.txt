@@ -6,16 +6,25 @@ These are some Linux problems to solve. After solving them, upload a Pull Reques
 
 1. You connect to a Linux server and need to identify your current directory.
 Task: What command do you use?
+[~]:pwd
 
 2. You are in /home/carlos, and you need to find a file named config.txt.
 Task: Find the file. What command do you use?
+[~]: locate /home/carlos config.txt
+[~]:find config.txt
 
 3. You need to create the following directory structure: '''/projects/linux/practice'''
 **The parent directories may not exist.**
 Task: Create the complete structure with one command. If you are facing issues, step by step
+[~]: mkdir -p projects/linux/practice
+[~]:rm -r practice
 
 4. You have this file /home/bryan/documents/tesis.txt
 Task: Copy the tesis.txt into a new directory called /backup into the /documents directory, one command better
+[~]: cd documents/ | mkdir backup | cp home/bryan/documents/tesis.txt home/bryan/documents/backup
+[~]:cp /home/bryan/documents/tesis.txt
+[~]:
+[~]:
 
 5. You are the assistant of Bryan, and the handsome man is new in the company.
 Task: Add the new user to the server, remember that you are not working on the Bryan server. Hint: ssh
