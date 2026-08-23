@@ -1,0 +1,38 @@
+These are some Linux problems to solve. After solving them, upload a Pull Request and Assign me as a reviewer to approve them. Feel free to edit this file or if any case upload a new one.
+
+# Linux Systems
+
+1. You connect to a Linux server and need to identify your current directory.
+Task: What command do you use?
+
+2. You are in /home/carlos, and you need to find a file named config.txt.
+Task: Find the file. What command do you use?
+
+3. You need to create the following directory structure: '''/projects/linux/practice'''
+**The parent directories may not exist.**
+Task: Create the complete structure with one command. If you are facing issues, step by step
+
+4. You have this file /home/bryan/documents/tesis.txt
+Task: Copy the tesis.txt into a new directory called /backup into the /documents directory, one command better
+
+5. You are the assistant of Bryan, and the handsome man is new in the company.
+Task: Add the new user to the server, remember that you are not working on the Bryan server. Hint: ssh
+
+6. Bryan says: "Carlos, I'm not able to run the script that you just shared me"
+Task: When running the script called ./sans.sh on the path /home/bryan/downloads/games
+Task2: Write and comment step by step what are you going to do
+
+7. The Bryan server is slow, and you suspect a process is using excessive CPU.
+Task: Identify the process consuming the most CPU.
+
+8. Add 3 users to your server: 'bryan', 'mariana', 'jonas'
+Task: commands step by step
+
+17. Check memory usage. A server is becoming slow.
+Task: Check:
+ - Total memory
+ - Used memory
+ - Available memory
+
+
+While you finish these exercises by yourself, feel free to contact the owner for more complex troubleshooting, like zombie processes, server running slow, dup processes, etc.
