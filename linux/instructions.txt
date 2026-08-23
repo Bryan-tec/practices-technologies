@@ -30,7 +30,7 @@ Task: Identify the process consuming the most CPU.
 8. Add 3 users to your server: 'bryan', 'mariana', 'jonas'
 Task: commands step by step
 
-17. Check memory usage. A server is becoming slow.
+9. Check memory usage. A server is becoming slow.
 Task: Check:
  - Total memory
  - Used memory
