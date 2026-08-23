@@ -36,5 +36,9 @@ Task: Check:
  - Used memory
  - Available memory
 
+10. I'm looking for a way to see the processes that are live running in the server.
+Task: Give me the process, command or a way to see this
+Bonus: How can I see the processes with all the files that this process need to run
+
 
 While you finish these exercises by yourself, feel free to contact the owner for more complex troubleshooting, like zombie processes, server running slow, dup processes, etc.
