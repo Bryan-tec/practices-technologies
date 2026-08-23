@@ -35,4 +35,6 @@ git config --global user.email "TU_EMAIL_DE_GITHUB"
 
 ### Investigate the steps to complete
 --------------------------
+## Tips: The configuration of the [WSL for windows](https://learn.microsoft.com/es-es/windows/wsl/install) is a great way to practice Linux in your personal computer, you don't need to perform something extra-ordinary, I recommend to use [chatGPT](www.chatgpt.com) for the configuration
+--------------------------
 powered by Bryan
