@@ -8,16 +8,22 @@ These are some Linux problems to solve. After solving them, upload a Pull Reques
 Task: What command do you use?
 [~]:pwd
 
+--------------------------------------------------------------------------------------------------------
+
 2. You are in /home/carlos, and you need to find a file named config.txt.
 Task: Find the file. What command do you use?
 [~]: locate /home/carlos config.txt
 [~]:find config.txt
+
+--------------------------------------------------------------------------------------------------------
 
 3. You need to create the following directory structure: '''/projects/linux/practice'''
 **The parent directories may not exist.**
 Task: Create the complete structure with one command. If you are facing issues, step by step
 [~]: mkdir -p projects/linux/practice
 [~]:rm -r practice
+
+--------------------------------------------------------------------------------------------------------
 
 4. You have this file /home/bryan/documents/tesis.txt
 Task: Copy the tesis.txt into a new directory called /backup into the /documents directory, one command better
@@ -26,18 +32,31 @@ Task: Copy the tesis.txt into a new directory called /backup into the /documents
 [~]:
 [~]:
 
+--------------------------------------------------------------------------------------------------------
+
+
 5. You are the assistant of Bryan, and the handsome man is new in the company.
 Task: Add the new user to the server, remember that you are not working on the Bryan server. Hint: ssh
+
+--------------------------------------------------------------------------------------------------------
+
 
 6. Bryan says: "Carlos, I'm not able to run the script that you just shared me"
 Task: When running the script called ./sans.sh on the path /home/bryan/downloads/games
 Task2: Write and comment step by step what are you going to do
 
+--------------------------------------------------------------------------------------------------------
+
+
 7. The Bryan server is slow, and you suspect a process is using excessive CPU.
 Task: Identify the process consuming the most CPU.
 
+--------------------------------------------------------------------------------------------------------
+
 8. Add 3 users to your server: 'bryan', 'mariana', 'jonas'
 Task: commands step by step
+
+--------------------------------------------------------------------------------------------------------
 
 9. Check memory usage. A server is becoming slow.
 Task: Check:
@@ -45,9 +64,13 @@ Task: Check:
  - Used memory
  - Available memory
 
+--------------------------------------------------------------------------------------------------------
+
 10. I'm looking for a way to see the processes that are live running in the server.
 Task: Give me the process, command or a way to see this
 Bonus: How can I see the processes with all the files that this process need to run
+
+--------------------------------------------------------------------------------------------------------
 
 
 While you finish these exercises by yourself, feel free to contact the owner for more complex troubleshooting, like zombie processes, server running slow, dup processes, etc.
